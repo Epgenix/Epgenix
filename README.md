@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [I dont have a blog :(](I dont have a blog :()
 
-- 📫 How to reach me **nils.bergemann@employe.epicnova.net**
+- 📫 How to reach me **nils.bergemann@employee.epicnova.net**
 
 - ⚡ Fun fact **I love assembly**
 
