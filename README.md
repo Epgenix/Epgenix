@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **An amazing game**
 
-- 👨‍💻 All of my projects are available at [https://ayumi.tieseler.dev](https://ayumi.tieseler.dev)
+- 👨‍💻 All of my projects are available at [Epic Nova's GitHub](https://github.com/Epic-Nova/)
 
-- 📝 I regularly write articles on [I dont have a blog :(](I dont have a blog :()
-
+- 📝 I regularly write articles on [My CTO Page
+](https://cto.employee.epicnova.net/blog)
 - 📫 How to reach me **nils.bergemann@employee.epicnova.net**
 
-- ⚡ Fun fact **I love assembly**
+- ⚡ Fun fact **I love Unreal Engine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
