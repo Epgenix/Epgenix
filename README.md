@@ -1,32 +1,208 @@
-<h1 align="center">Hi 👋, I'm Nils Bergemann</h1>
-<h3 align="center">A hardcore Unreal Engine gameplay programmer</h3>
+<!--
+  Aerien / epgenix
+  Personal GitHub profile
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=epgenix&label=Profile%20views&color=0e75b6&style=flat" alt="epgenix" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=epgenix" alt="epgenix" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=0:0D1117,45:182848,100:4F46E5&text=Aerien%20%F0%9F%91%8B&fontColor=FFFFFF&fontSize=58&fontAlignY=48&desc=building%20systems%20behind%20ambitious%20games&descSize=15&descAlignY=72&animation=fadeIn" width="100%" alt="Aerien — building systems behind ambitious games" />
 
-- 🔭 I’m currently working on **An amazing game**
+<br/>
 
-- 👨‍💻 All of my projects are available at [Epic Nova's GitHub](https://github.com/Epic-Nova/)
+<a href="https://github.com/epgenix">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=19&pause=1400&color=8B9DFF&center=true&vCenter=true&width=720&height=38&lines=CTO+%40+Epic+Nova+%F0%9F%9A%80;Unreal+Engine+%26+C%2B%2B+engineer+%F0%9F%8E%AE;Architecting+reusable+game+systems+%E2%9A%99%EF%B8%8F;Turning+complexity+into+good+developer+experience+%E2%9C%A8" alt="Animated introduction" />
+</a>
 
-- 📝 I regularly write articles on [My CTO Page
-](https://cto.employee.epicnova.net/blog)
-- 📫 How to reach me **nils.bergemann@employee.epicnova.net**
+<br/>
 
-- ⚡ Fun fact **I love Unreal Engine**
+[![GitHub](https://img.shields.io/badge/GitHub-epgenix-18181B?style=flat-square&logo=github)](https://github.com/epgenix)
+[![Epic Nova](https://img.shields.io/badge/CTO-Epic%20Nova-18181B?style=flat-square&logo=unrealengine)](https://github.com/Epic-Nova)
+[![C++](https://img.shields.io/badge/Powered%20by-C%2B%2B-18181B?style=flat-square&logo=cplusplus&logoColor=659AD2)](https://isocpp.org/)
+[![Unreal Engine](https://img.shields.io/badge/Engine-Unreal-18181B?style=flat-square&logo=unrealengine)](https://www.unrealengine.com/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nils-bergemann-6398a5280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nils-bergemann-6398a5280" height="30" width="40" /></a>
-<a href="https://instagram.com/that_real_nils" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that_real_nils" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+**I don't just want to build games. I want to build the systems that make building games better.**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epgenix&show_icons=true&locale=en&layout=compact" alt="epgenix" /></p>
+[⚡ Explore my work](https://github.com/Epic-Nova/Gorgeous-Core) · [🏢 Epic Nova](https://github.com/Epic-Nova) · [✍️ Technical blog](https://cto.employee.epicnova.net/blog)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epgenix&show_icons=true&locale=en" alt="epgenix" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=epgenix&" alt="epgenix" /></p>
+---
 
+<div align="center">
+
+## 🧠 A developer with a systems-level view
+
+*Gameplay is where players meet the game. Architecture is what lets the game grow.*
+
+</div>
+
+Hey! I'm **Aerien** 👋
+
+I'm a programmer and technical leader who loves figuring out how complex systems fit together. As CTO at [Epic Nova](https://github.com/Epic-Nova), I'm interested in the engineering foundations behind extensible game development: reusable systems, thoughtful architecture, and tools that make developers more capable.
+
+My favorite problems live at the intersection of **gameplay programming, engine architecture, and developer experience**.
+
+I care about more than making something work once. I want to understand why it works, how it scales, and how to make it useful to the next developer, too.
+
+
+<div align="center">
+
+## 🐍 My activity, in motion
+
+<img
+  src="https://raw.githubusercontent.com/epgenix/epgenix/output/github-contribution-grid-snake-dark.svg"
+  alt="An animated snake following Aerien's GitHub contributions"
+/>
+
+<sub>Every square is a little piece of the journey. 🚀</sub>
+
+</div>
+
+
+## 🛠️ The engineering lab
+
+<div align="center">
+
+### 🧩 Gorgeous Core
+
+**Reusable infrastructure. Composable systems. Unreal Engine.**
+
+</div>
+
+[**Gorgeous Core →**](https://github.com/Epic-Nova/Gorgeous-Core)
+
+A core infrastructure project for Unreal Engine plugins, built around the idea that powerful capabilities should be reusable building blocks, not isolated solutions.
+
+The project spans systems for:
+
+- 🧠 **Object Variables** — structured, reusable object data.
+- 🔄 **Auto Replication** — reducing repetitive replication setup.
+- 🗺️ **Data Schema Mapping** — connecting data structures across systems.
+- 🖱️ **Interaction Foundation** — reusable foundations for interaction mechanics.
+- 📡 **Signal Bridge** — communication between systems.
+- 🎨 **CommonUI Foundation** — shared UI infrastructure.
+- 🐛 **Debug Assist** — better tools for understanding what's happening.
+- 📊 **Stats Foundation & Insight Matrix** — foundations for tracking and inspecting systems.
+
+<details>
+<summary>🔬 <b>What I find interesting about infrastructure engineering</b></summary>
+
+The challenge isn't just exposing functionality. It's designing APIs that remain understandable, making systems compose cleanly, accounting for editor workflows, and deciding where flexibility is genuinely useful rather than just adding complexity.
+
+Those are the kinds of engineering problems I enjoy exploring.
+
+</details>
+
+<br/>
+
+<div align="center">
+
+### 🌌 Epic Nova
+
+**Building the open infrastructure powering the next generation of game studios.**
+
+</div>
+
+[**Explore Epic Nova →**](https://github.com/Epic-Nova/)
+
+I'm proud to work on the technical foundations of a broader vision: making game development infrastructure more accessible, modular, and reusable.
+
+The long-term idea is simple to explain, even if the engineering isn't: give developers better building blocks so they can spend more time creating and less time reinventing foundations.
+
+🧭 [Explore the roadmap](https://epicnova.net/roadmap)
+
+---
+
+<div align="center">
+
+## 🧰 My toolbox
+
+*The tools are important. Knowing when and how to use them is the real craft.*
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,unrealengine,git,linux,docker,postgres,ts,react,figma&perline=10" alt="C++, C#, Unreal Engine, Git, Linux, Docker, PostgreSQL, TypeScript, React, and Figma" />
+
+<br/><br/>
+
+| 🔧 Domain | 🧪 Main interests |
+|:---:|:---|
+| 🎮 Game engineering | Unreal Engine, gameplay systems, C++ |
+| 🏗️ Architecture | Modular design, reusable APIs, extensibility |
+| 🧰 Tooling | Editor workflows, debugging, developer experience |
+| 🌐 Infrastructure | Open-source foundations, supporting services and tools |
+
+</div>
+
+
+<div align="center">
+
+## 📊 The engineering footprint
+
+<a href="https://github.com/epgenix">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=epgenix&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=8B9DFF&text_color=C9D1D9&rank_icon=github&include_all_commits=true"
+    alt="GitHub statistics for Aerien"
+  />
+</a>
+
+<br/>
+
+### 🏗️ Where the engineering happens
+
+<a href="https://github.com/Epic-Nova/Gorgeous-Core">
+  <img
+    src="https://github-readme-stats.vercel.app/api/pin/?username=Epic-Nova&repo=Gorgeous-Core&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=8B9DFF&text_color=C9D1D9"
+    alt="Gorgeous Core repository"
+  />
+</a>
+
+<br/>
+
+<sub>Numbers are a snapshot. The systems we build are the real story.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💬 Found something interesting?
+
+I'm always happy to connect with people who love game development, systems engineering, open source, or simply making things work better.
+
+<br/>
+
+<a href="https://linkedin.com/in/nils-bergemann-6398a5280">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+</a>
+<a href="mailto:nils.bergemann@employee.epicnova.net">
+  <img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aerien" />
+</a>
+<a href="https://instagram.com/that_real_nils">
+  <img src="https://img.shields.io/badge/Instagram-Follow_along-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+</a>
+
+<br/><br/>
+
+
+<div align="center">
+
+### 🌱 Still learning. Still building. Still curious.
+
+*The best systems don't just solve today's problems.*
+*They make tomorrow's ideas possible.*
+
+<br/>
+
+**Made with ☕, C++, Unreal Engine, and an unreasonable number of ideas. 🚀**
+
+<br/>
+
+<a href="https://github.com/Epic-Nova">
+  <img src="https://img.shields.io/badge/Building_with-Epic_Nova-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Building with Epic Nova" />
+</a>
+
+</div>
