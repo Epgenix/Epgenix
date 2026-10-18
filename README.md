@@ -47,20 +47,6 @@ My favorite problems live at the intersection of **gameplay programming, engine 
 I care about more than making something work once. I want to understand why it works, how it scales, and how to make it useful to the next developer, too.
 
 
-<div align="center">
-
-## 🐍 My activity, in motion
-
-<img
-  src="https://raw.githubusercontent.com/epgenix/epgenix/output/github-contribution-grid-snake-dark.svg"
-  alt="An animated snake following Aerien's GitHub contributions"
-/>
-
-<sub>Every square is a little piece of the journey. 🚀</sub>
-
-</div>
-
-
 ## 🛠️ The engineering lab
 
 <div align="center">
